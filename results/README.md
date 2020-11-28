@@ -35,4 +35,4 @@ The files are listed here in the order of their naming (i.e. the order they woul
 [24] final_409_nch1_5_ol0_5_d0_env0.mat\
 [25] final_409_nch8_5_ol0_5_d0_env0_0004.mat\
 [26] final_409_nch8_5_ol0_5_d0_env0.mat\
-[27] final_409_nch8_5_ol0_5_d0_env1e_05.mat\
+[27] final_409_nch8_5_ol0_5_d0_env1e_05.mat
