@@ -10,28 +10,28 @@ The files are listed here in the order of their naming (i.e. the order they woul
 
  [1] final_401_nch1_5_ol0_5_d0_1_env0_0004.mat
  [2] final_401_nch1_5_ol0_5_d0_1_env0.mat
- [3] final_401_nch1_5_ol0_5_d0_1_env1e_05.mat  
+ [3] final_401_nch1_5_ol0_5_d0_1_env1e_05.mat
  [4] final_401_nch6_8_ol0_5_d0_01_env0_0004.mat
- [5] final_401_nch6_8_ol0_5_d0_01_env0.mat     
- [6] final_401_nch6_8_ol0_5_d0_01_env1e_05.mat 
- [7] final_401_nch6_8_ol0_5_d0_1_env0_0004.mat 
- [8] final_401_nch6_8_ol0_5_d0_1_env0.mat      
- [9] final_401_nch6_8_ol0_5_d0_1_env1e_05.mat  
-[10] final_401_nch6_8_ol0_5_d0_env1e_05.mat    
+ [5] final_401_nch6_8_ol0_5_d0_01_env0.mat
+ [6] final_401_nch6_8_ol0_5_d0_01_env1e_05.mat
+ [7] final_401_nch6_8_ol0_5_d0_1_env0_0004.mat
+ [8] final_401_nch6_8_ol0_5_d0_1_env0.mat
+ [9] final_401_nch6_8_ol0_5_d0_1_env1e_05.mat
+[10] final_401_nch6_8_ol0_5_d0_env1e_05.mat
 [11] final_401_nch8_5_ol0_5_d0_01_env0_0004.mat
-[12] final_401_nch8_5_ol0_5_d0_01_env0.mat     
-[13] final_401_nch8_5_ol0_5_d0_01_env1e_05.mat 
-[14] final_401_nch8_5_ol0_5_d0_1_env0_0004.mat 
-[15] final_401_nch8_5_ol0_5_d0_1_env0.mat      
-[16] final_401_nch8_5_ol0_5_d0_1_env1e_05.mat  
+[12] final_401_nch8_5_ol0_5_d0_01_env0.mat
+[13] final_401_nch8_5_ol0_5_d0_01_env1e_05.mat
+[14] final_401_nch8_5_ol0_5_d0_1_env0_0004.mat
+[15] final_401_nch8_5_ol0_5_d0_1_env0.mat
+[16] final_401_nch8_5_ol0_5_d0_1_env1e_05.mat
 [17] final_405_nch1_5_ol0_5_d0_01_env0_0004.mat
-[18] final_405_nch1_5_ol0_5_d0_01_env0.mat     
-[19] final_405_nch1_5_ol0_5_d0_01_env1e_05.mat 
-[20] final_405_nch1_5_ol0_5_d0_env1e_05.mat    
-[21] final_407_nch6_8_ol0_5_d0_env0_0004.mat   
-[22] final_407_nch6_8_ol0_5_d0_env0.mat        
-[23] final_409_nch1_5_ol0_5_d0_env0_0004.mat   
-[24] final_409_nch1_5_ol0_5_d0_env0.mat        
-[25] final_409_nch8_5_ol0_5_d0_env0_0004.mat   
-[26] final_409_nch8_5_ol0_5_d0_env0.mat        
-[27] final_409_nch8_5_ol0_5_d0_env1e_05.mat 
+[18] final_405_nch1_5_ol0_5_d0_01_env0.mat
+[19] final_405_nch1_5_ol0_5_d0_01_env1e_05.mat
+[20] final_405_nch1_5_ol0_5_d0_env1e_05.mat
+[21] final_407_nch6_8_ol0_5_d0_env0_0004.mat
+[22] final_407_nch6_8_ol0_5_d0_env0.mat
+[23] final_409_nch1_5_ol0_5_d0_env0_0004.mat
+[24] final_409_nch1_5_ol0_5_d0_env0.mat
+[25] final_409_nch8_5_ol0_5_d0_env0_0004.mat
+[26] final_409_nch8_5_ol0_5_d0_env0.mat
+[27] final_409_nch8_5_ol0_5_d0_env1e_05.mat
