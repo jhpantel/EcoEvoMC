@@ -1,13 +1,23 @@
 # EcoEvoMC
 
-Description: EcoEvoMC, a simulation model for discrete-time population growth with intra- and interspecific competition strength and carrying capacity dependent on an evolving trait.
+EcoEvoMC is a simulation model for discrete-time population growth with intra- and interspecific competition strength and carrying capacity dependent on an evolving quantitative trait. The full description of the model is in Fielding & Pantel 2020, Eco-evolutionary feedbacks and the maintenance of metacommunity diversity in a changing environment.
 
-Table of Contents: XXX
+# Citations
+Fielding, A.P. and Pantel, J.H. 2020. Eco-evolutionary feedbacks and the maintenance of metacommunity diversity in a changing environment. bioRxiv 2020.06.11.145680; doi: https://doi.org/10.1101/2020.06.11.145680
 
-Installation: Use of this code requires MATLAB and access to the files eeed.m, Kx.m, XXX, and YYY.
+Fielding, A.P., Pantel, J.H. 2020. Eco-Evolutionary feedbacks and the maintenance of metacommunity diversity in a changing environment. Genes 11, 1433.
 
-Usage: Download the files eeed.m, Kx.m, XXX, and YYY. Place all in the same directory. The file eeed.m is the main simulation file, so executing that will run all 27 simulation conditions described in the manuscript Eco-Evolutionary Feedbacks and the Maintenance of Metacommunity Diversity in a Changing Environment. Caution that all 27 simulation conditions are set to run in a loop, so the execution of code may take some time. The code produces a set of 27 results (.mat) files that will be saved to the same directory as the code. The function in the file Kx.m is called during the course of eeed.m.
+# Table of Contents
+Code for the simulation is found in the directory code. MATLAB results files that resulted from the simulation model and are the results found in Fielding & Pantel 2020 are in the directory results.
 
-Credits: This code was written by Aidan P. Fielding, with contributions by J.H. Pantel.
+# Installation
+Use of this code requires MATLAB and access to the files eeed.m, Kx.m, XXX, and YYY.
 
-License: This code adheres to a GNU GPLv3 license.
+# Usage
+Download the files eeed.m, Kx.m, XXX, and YYY (in the directory code). Place all in the same directory. The file eeed.m is the main simulation file, so executing that will run all 27 simulation conditions described in Fielding & Pantel 2020. Caution that all 27 simulation conditions are set to run in a loop, so the execution of code may take some time. The code produces a set of 27 results (.mat) files that will be saved to the same directory as the code. The function in the file Kx.m is called during the course of eeed.m.
+
+# Credits
+This code was written by Aidan P. Fielding, with contributions by J.H. Pantel.
+
+# License
+This code adheres to a GNU GPLv3 license.
