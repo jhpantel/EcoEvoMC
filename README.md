@@ -8,13 +8,13 @@ Fielding, A.P. and Pantel, J.H. 2020. Eco-evolutionary feedbacks and the mainten
 Fielding, A.P., Pantel, J.H. 2020. Eco-Evolutionary feedbacks and the maintenance of metacommunity diversity in a changing environment. Genes 11, 1433.
 
 # Table of Contents
-Code for the simulation is found in the directory code. MATLAB results files that resulted from the simulation model and are the results found in Fielding & Pantel 2020 are in the directory results.
+Code for the simulation, and the initial metacommunities used in the simulations, are found in the directory **code**. MATLAB results files produced by the simulation model (the results used in Fielding & Pantel 2020) are in the directory **results**.
 
 # Installation
 Use of this code requires MATLAB and access to the files eeed.m, Kx.m, N_ICs_nch68_k3_ic1.mat, N_ICs_nch85_k3_ic1.mat, and N_ICs_nch15_k3_ic1.mat.
 
 # Usage
-Download the files eeed.m, Kx.m,  N_ICs_nch68_k3_ic1.mat, N_ICs_nch85_k3_ic1.mat, and N_ICs_nch15_k3_ic1.mat (in the directory code). Place all in the same directory. The file eeed.m is the main simulation file, so executing that will run all 27 simulation conditions described in Fielding & Pantel 2020. Caution that all 27 simulation conditions are set to run in a loop, so the execution of code may take some time. The code produces a set of 27 results (.mat) files that will be saved to the same directory as the code. The function in the file Kx.m is called during the course of eeed.m, and the files N_ICs_nch68_k3_ic1.mat, N_ICs_nch85_k3_ic1.mat, and N_ICs_nch15_k3_ic1.mat are the initial communities for each of the 3 levels of niche width (0.68, 0.85, and 1.5).
+Download the files eeed.m, Kx.m,  N_ICs_nch68_k3_ic1.mat, N_ICs_nch85_k3_ic1.mat, and N_ICs_nch15_k3_ic1.mat (in the directory code). Place all in the same directory. The file eeed.m is the main simulation file, so executing that will run all 27 simulation conditions described in Fielding & Pantel 2020. Caution that all 27 simulation conditions are set to run in a loop, so the execution of code may take some time. The code produces a set of 27 results (.mat) files that will be saved to the same directory as the code. The function in the file Kx.m is called during the course of eeed.m. The files N_ICs_nch68_k3_ic1.mat, N_ICs_nch85_k3_ic1.mat, and N_ICs_nch15_k3_ic1.mat are the initial communities for each of the 3 levels of niche width (0.68, 0.85, and 1.5). Users can produce their own initial metacommunities, or use the same that were included in the Fielding & Pantel 2020 (Genes) manuscript.
 
 # Credits
 This code was written by Aidan P. Fielding, with contributions by J.H. Pantel.
