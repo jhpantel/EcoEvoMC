@@ -7,7 +7,7 @@ Fielding, A.P. and Pantel, J.H. 2020. Eco-evolutionary feedbacks and the mainten
 Fielding, A.P.; Pantel, J.H. Eco-Evolutionary Feedbacks and the Maintenance of Metacommunity Diversity in a Changing Environment. Genes 2020, 11, 1433.
  
 # Contents
-The files are listed here in the order of their naming (i.e. the order they would appear in a directory sorted by File Name). File names indicate results across niche width values (0.68 --> nch6_8, 0.85 --> nch8_5, 1.5 --> nch1_5), dispersal levels (0 --> d0, 0.01 --> d0_01, 0.1 --> d0_1), and rates of environmental change (0 --> env0, 10^-5 --> env1e_05, 4x10^-4.
+The files are listed here in the order of their naming (i.e. the order they would appear in a directory sorted by File Name). File names indicate results across niche width values (0.68 --> nch6_8, 0.85 --> nch8_5, 1.5 --> nch1_5), dispersal levels (0 --> d0, 0.01 --> d0_01, 0.1 --> d0_1), and rates of environmental change (0 --> env0, 10^-5 --> env1e_05, 4x10^-4).
 
  [1] final_401_nch1_5_ol0_5_d0_1_env0_0004.mat\
  [2] final_401_nch1_5_ol0_5_d0_1_env0.mat\
